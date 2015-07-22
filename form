@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>FORM</title>
+</head>
+<body>
+<header>
+<h1>İŞ BAŞVURU FORMU</h1>
+</header>
+
+<label for="isim">İsim </label>
+<input type="text" name="isim" id="isim" tabindex="20" placeholder="isminizi giriniz" required></input>
+<br></br>
+<label for="email">Email </label>
+<input type="email" name="email" id="email" tabindex="30" placeholder="email giriniz" required></input>
+<br></br>
+<label for="yas">Yaşınız </label>
+<input for="number" name="number" id="number" placeholder="yaşınızı giriniz" required></input> <!step="1" min="1" max="150"!>
+<br></br>
+<label for="tarih">Katılma Tarihi </label>
+<input type="date" id="tarih" name="tarih" tabindex="60"></input>
+<br></br>
+<label for="gorus">Görüşleriniz<br></br></label>
+<textarea name="gorus" id="gorus" tabindex="70" cols="45" rows="10" placeholder="görüşlerinizi giriniz"></textarea>
+<br></br>
+<input type="submit" id="gonder" name="gonder" tabindex="40" value="Görüş Gönder"></input>
+</body>
+</html>

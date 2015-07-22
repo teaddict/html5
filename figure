@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title></title>
+<style type="text/css">
+figure {
+text-align: center;
+border:1px #C00 solid;
+}
+figcaption
+{
+font-family: Verdana;
+font-weight: bold;
+color: #666;
+}
+</style>
+</head>
+<body>
+<figure>
+<img src="acz.jpg">
+</img>
+<figcaption>RESİM BAŞLIĞI</figcaption>
+</figure>
+</body>
+</html>

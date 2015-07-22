@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+    <title>section etiketi </title>
+<style type="text/css">
+section#ust{
+background-color: #CCCC99;
+}
+section#sol{
+background-color: #06C;
+width: %50;
+float: left;
+}
+section#sag{
+background-color: #600;
+width: %75;
+}
+
+</style>
+</style>
+  </head>
+  
+  <body>
+  <div id="disari">
+    <section id="ust">
+    <h1>SAYFA BAŞLIĞI</h1>
+    </section>
+    <section id="sol">
+      <p>left side-this used with p etiketi</p>
+    </section>
+    <section id="sag">
+      <p>right side-it is wonderful</p>
+    </section>
+    </div>
+ 
+</body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+    <title>section etiketi </title>
+<style type="text/css">
+section#ust{
+background-color: #CCCC99;
+}
+section#sol{
+background-color: #06C;
+width: %50;
+float: left;
+}
+section#sag{
+background-color: #600;
+float: right;
+}
+article#icerik1
+{
+color: #B300FF;
+}
+article#icerik1 header{
+background-color: #CF9;
+}
+</style>
+</style>
+  </head>
+  
+  <body>
+  <div id="disari">
+    <section id="ust">
+    <h1>SAYFA BAŞLIĞI</h1>
+    </section>
+    <section id="sol">
+    <header>
+    <h1>icerik 1</h1>
+    </header>
+    <article id="icerik1">
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque euismod dolor semper erat pellentesque aliquam. Pellentesque elementum lacinia mi. Mauris nisl augue, scelerisque eu mollis eu, faucibus at neque. Fusce neque risus, dapibus vel lacus sit amet, aliquet porta enim. Quisque quis aliquet quam. Vivamus interdum mauris eros, eu aliquam est sollicitudin vestibulum. In ullamcorper pretium ligula ut gravida. Pellentesque tempus urna ut neque ultrices, ac congue odio blandit. Nam sit amet magna euismod, tempor mauris sed, eleifend lectus. Aenean ac convallis mauris, non gravida metus. </p>
+      </article>
+    </section>
+    <section id="sag">
+      <p>right side-it is wonderful</p>
+    </section>
+    </div>
+ 
+</body>
+</html>

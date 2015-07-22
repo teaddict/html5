@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title></title>
+</head>
+<body>
+<div id="orta">
+<hgroup>
+<h1>HTML5</h1>
+<h2>İçerik Etiketleri</h2>
+<h3>EMBED</h3>
+</hgroup>
+<figure>
+<embed src="flash.swf" type="iapplication/x-shockwave-flash" width="700" height="450"></embed>
+</figure>
+</div>
+
+
+
+</body>
+</html>

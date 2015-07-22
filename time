@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title></title>
+</head>
+<body>
+<div id="orta">
+<hgroup>
+<h1>HTML5</h1>
+<h2>İçerik Etiketleri</h2>
+<h3>TIME</h3>
+</hgroup>
+<section id="ic">
+<p>Sayfa güncellenme tarihi:<time datetime="2012-02-05" pubdate> 15.02.2012</time></p>
+<ul>
+<li>
+Bu ayın <time datetime="2012-02-25T14:00+02:00">25'inde saat 14 tiyatro gösterisi
+olacaktır </time>
+</li>
+
+</ul>
+</section>
+</div>
+</body>
+</html>

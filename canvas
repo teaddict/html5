@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title></title>
+</head>
+<body>
+<div id="orta">
+<hgroup>
+<h1>HTML5</h1>
+<h2>İçerik Etiketleri</h2>
+<h3>CANVAS</h3>
+</hgroup>
+<section id="ic">
+<canvas id="cizimalani" width="500" height="300">
+tarayıcınız canvas özelliğini desteklemiyor!
+</canvas>
+
+</section>
+</div>
+<script lang="javascript" type="text/javascript" >
+var canvas=document.getElementById("cizimalani")
+var icerik=canvas.getContext("2d");
+icerik.fillStyle="#0000FF";
+icerik.fillRect(30,30,50,50);
+
+icerik.strongStyle="FF0000";
+icerik.lineWidth=5;
+icerik.strokeRect(30,30,50,50);
+
+</script>
+
+
+</body>
+</html>
